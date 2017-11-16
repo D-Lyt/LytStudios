@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://dlyt.000webhostapp.com/BUILD_art.JPG");
+}
+
+
+.boxed {
+    border: 1px solid orange;
+    margin: 0 auto;
+    position: center;
+    background-color: gray
+}
+
+#audioPlayer {
+background-color:black;
+}
+
+
+        #playlist{
+            list-style: none;
+        }
+        #playlist li a{
+            color:black;
+            text-decoration: none;
+        }
+        #playlist .current-song a{
+            color:orange;
+        }
